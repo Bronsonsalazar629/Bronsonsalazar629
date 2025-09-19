@@ -1,4 +1,4 @@
- # Hey! I'm Bronson 👋
+ # Hey! I'm Bronson 
 
 High schooler that enjoys CS and Programming
 
