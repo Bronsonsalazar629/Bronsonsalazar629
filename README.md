@@ -1,4 +1,4 @@
-<h1 align="center">Hey! , I'm Bronson 🦖</h1>
+<h1 align="center">Hey! , I'm Bronson 🦖 </h1>
 <h3 align="center">High School Programmer working with AI/ML infastructure</h3>
 
 ## What I'm up to 
