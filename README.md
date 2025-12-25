@@ -1,16 +1,11 @@
 <h1 align="center">Hey! , I'm Bronson 🦖 </h1>
-<h3 align="center">High School Programmer working with AI/ML infastructure</h3>
 
-## What I'm up to 
+## Who am I 
+- Im a Junior based from Florida, I hope to pursue the field of machine learning science within the fairness domain.
 
-- Building **SunPath AI** causal fairness and mental health resource allocation
-
-- Learning **Competitive Programming in c++** (bronze is cooking me )
+-  Currently im working on some projects revolving around how AI can determine bias within the real world, specifically the
+  healthcare domain.
   
-- Leading **Hack Club @ SCF** - teaching other students Website Creation and Python
-  
-- Reading feminst literature while drinking my matcha latte with OAT milk (6,1 btw)
-
 - Reach me through **bronsonsalazar629@gmail.com** !
   
 <h3 align="left">Tools I use:</h3>
