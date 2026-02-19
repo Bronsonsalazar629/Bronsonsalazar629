@@ -1,6 +1,8 @@
 <h1 align="center"> Hi I'm Bronson </h1>
 
- I am working on some projects revolving around how AI can determine bias within the real world, specifically the within healthcare domain.
+ I am working on some projects revolving around how AI can determine bias within the real world, specifically the within healthcare domain. <img src="https://assets.pinterest.com/ext/embed.html?id=320248223521529338" width="25"/>
+
+
   
 - reach me through **bronsonsalazar629[at]gmail.com**
   
