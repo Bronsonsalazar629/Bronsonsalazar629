@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I'm Bronson </h1>
 
- I am working on some projects revolving around how AI can determine bias within the real world, specifically the within healthcare domain.
-  
+ I am working on causal analysis projects that identify bias pathways within medical data
+<img src="header.png" align="right" width="300"/>
 - reach me through **bronsonsalazar629[at]gmail.com**
   
 <h3 align="left">tools that i use:</h3>
