@@ -2,7 +2,7 @@
 
 python, cpp, rust 
 
-i work with computational data
+I like visualizing data 
 
 - contact **bronsonsalazar629[at]gmail.com**
   
