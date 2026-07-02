@@ -10,6 +10,4 @@ I am a current student dabbling in data analysis and competitive programming
 
 When I am not programming, you can find me trying new food, playing valorant, or watching youtube
 
-#### Follow  my on linkedin (⌐■_■)
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/bronson-s-266836375)
