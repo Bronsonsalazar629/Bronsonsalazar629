@@ -6,8 +6,8 @@
 
 I'm bronson
 
-I am a current student dabbling in data analysis and competitive programming
+I am a student dabbling in data analysis and leetcode problems
 
-When I am not programming, you can find me trying new food, playing valorant, or watching youtube
+When I am not programming, you can find me trying new food, playing valorant, or binging a new show
 
 
